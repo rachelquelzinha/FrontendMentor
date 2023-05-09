@@ -1,2 +1,2 @@
 # FrontendMentor
- Testando minhas habilidade com os desafios do FrontendMentor
+ Testando minhas habilidades em HTML e CSS com os desafios do Frontend Mentor
